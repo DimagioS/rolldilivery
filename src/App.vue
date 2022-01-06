@@ -143,6 +143,7 @@ export default {
         {name: 'Калифорния темпура', price: '250', grams: '205г.', current: 1},
         {name: 'Запеченый ролл «Калифорния»', price: '183', grams: '180г.', current: 1},
         {name: 'Филадельфия', price: '300', grams: '420г.', current: 1},
+        {name: 'Запеченый ролл Филадельфия', price: '720', grams: '120г.', current: 1},
       ],
       orders: [],
     }
